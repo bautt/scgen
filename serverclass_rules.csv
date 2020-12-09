@@ -1,0 +1,2 @@
+serverclass,hostname,cidr,os,apps,active
+WebServer_Apache,(raspi4)|(data),,linux.*,^web_auth_apache$,false
