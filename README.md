@@ -1,6 +1,7 @@
 # scgen
 **scgen.py script created by @github/hovu96**
-Script which generates serverclasses.conf based on rules file (serverclass_rules.csv) for Splunk deployment server. 
+
+Script which generates **serverclasses.conf** based on a rules file (serverclass_rules.csv). It allows to use regex for host name, OS and app matching and CIDR to define IP ranges. 
 
 Rules file contains:
 - regex for hostname
